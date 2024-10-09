@@ -5,4 +5,4 @@ npx create-react my-app
 npm install
 cd my-app
 npm start
-to build or deploy using netlify is npm run build 
+to build or deploy using netlify is npm run builds
